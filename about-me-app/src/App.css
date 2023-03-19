@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: aqua;
+  color: black;
+}
+/* .Main {
+  background-color: blue;
+} */
+header {
+  background-color: black;
+  color: white;
+}
+
+.text-in-footer {
+  color: black;
+  
+}
